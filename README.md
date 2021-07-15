@@ -7,14 +7,21 @@ I just train this just for 9 epochs due to lack of time(before using this datase
 
 here are some results:
 1:
+
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(2).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(2)_detail.png?raw=True)
+
 2:
+
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(3).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(3)_detail.png?raw=True)
+
 3:
+
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(4).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(4)_detail.png?raw=True)
+
 4:
+
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(5).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/car_backgound_removal/blob/main/background_removed_outputs/download%20(5)_detail.png?raw=True)
