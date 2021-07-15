@@ -2,7 +2,9 @@
 
 
 For this I trained deeplabv3+ on pascal voc dataset(it have 21 classes).
+
 I used a combined loss of dice loss and categorical crossentropy.
+
 I just train this just for 9 epochs due to lack of time(before using this dataset I was using other datasets so I didn't had much time to train on this) ,so perform can be increased by training for longer.
 
 here are some results:
